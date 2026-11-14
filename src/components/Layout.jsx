@@ -59,12 +59,7 @@ export default function Layout({ projects, addProject, storageError }) {
             as ideias do papel.
           </p>
         </div>
-        <div className="sidebar-footer">
-          <span className="avatar">EU</span>
-          <div>
-            Espaço pessoal
-          </div>
-        </div>
+
       </aside>
       <div className="main-shell">
         <header className="topbar">
