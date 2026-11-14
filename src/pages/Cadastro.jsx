@@ -198,14 +198,6 @@ export default function Cadastro() {
               </p>
             </div>
           )}
-          <div className="quiet-note">
-            <Icon name="about" size={17} />
-            <p>
-              Seus projetos ficam salvos neste navegador.
-              <br />
-              Você pode sair e continuar depois.
-            </p>
-          </div>
         </section>
       </div>
     </>
