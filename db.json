@@ -1,0 +1,74 @@
+{
+  "projetos": [
+    {
+      "id": 1,
+      "nome": "Meu portfólio em React",
+      "horas": 12,
+      "status": "Em andamento",
+      "prioridade": true
+    },
+    {
+      "id": 2,
+      "nome": "Garçom Virtual",
+      "horas": 40,
+      "status": "Em andamento",
+      "prioridade": true
+    },
+    {
+      "id": 3,
+      "nome": "GameLog",
+      "horas": 20,
+      "status": "Planejado",
+      "prioridade": false
+    },
+    {
+      "id": 4,
+      "nome": "Aplicativo de diário",
+      "horas": 8,
+      "status": "Concluído",
+      "prioridade": false
+    },
+    {
+      "id": 5,
+      "nome": "Music Tracker",
+      "horas": 16,
+      "status": "Planejado",
+      "prioridade": false
+    },
+    {
+      "id": 6,
+      "nome": "Site para casal",
+      "horas": 10,
+      "status": "Concluído",
+      "prioridade": false
+    },
+    {
+      "id": 7,
+      "nome": "Controle de presenças",
+      "horas": 30,
+      "status": "Concluído",
+      "prioridade": true
+    },
+    {
+      "id": 8,
+      "nome": "API de tarefas",
+      "horas": 14,
+      "status": "Planejado",
+      "prioridade": true
+    },
+    {
+      "id": 9,
+      "nome": "Página de apresentação pessoal",
+      "horas": 6,
+      "status": "Concluído",
+      "prioridade": false
+    },
+    {
+      "id": 10,
+      "nome": "Organizador de estudos",
+      "horas": 18,
+      "status": "Planejado",
+      "prioridade": false
+    }
+  ]
+}
